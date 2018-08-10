@@ -1,6 +1,10 @@
-# ReduxSimpleStarter
+![javaScript icon](https://github.com/Zefevr/FinalEvaluation/blob/master/dev-icons/js.svg)
+![react icon](https://github.com/Zefevr/FinalEvaluation/blob/master/dev-icons/react.svg)
+![html icon](https://github.com/Zefevr/FinalEvaluation/blob/master/dev-icons/html.svg)
+![css icon](https://github.com/Zefevr/FinalEvaluation/blob/master/dev-icons/css.svg)
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+# Youtube-clone app
+> React-Redux course from Udemy
 
 ### Getting Started
 
